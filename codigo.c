@@ -8,7 +8,6 @@ struct Tcarro{
   char cor[30];
 };
 
-//Funções
 int fun_decre();
 int fun_incre();
 void flush_in ();
