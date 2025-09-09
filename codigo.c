@@ -3,9 +3,9 @@
 #include <locale.h>
 
 struct Tcarro{
-  char modelo[30] ;
-  char placa[30] ;
-  char cor[30];
+  char modelo[35] ;
+  char placa[35] ;
+  char cor[35];
 };
 
 int fun_decre();
