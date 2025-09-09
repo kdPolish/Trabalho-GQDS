@@ -5,7 +5,7 @@
 struct Tcarro{
   char modelo[35] ;
   char placa[35] ;
-  char cor[35];
+  char cor[30];
 };
 
 int fun_decre();
