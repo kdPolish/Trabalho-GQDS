@@ -3,7 +3,7 @@
 #include <locale.h>
 
 struct Tcarro{
-  char modelo[35] ;
+  char modelo[32] ;
   char placa[30] ;
   char cor[30];
 };
